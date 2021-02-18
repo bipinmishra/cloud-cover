@@ -1,0 +1,323 @@
+{
+
+"dashboardList" : [
+
+    
+    {"name":"Force Lighting","docked":"ok" , "widget" :"12", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-1",
+        
+        "shared" :[
+            {"name" :"Bipin M", "img" : "assets/images/user.png"},
+            {"name" :"Denny Delk", "img" : "assets/images/user.png"},
+            {"name" :"Chris Person", "img" : "assets/images/user.png"}
+        
+        ],
+
+      "sub" : [
+
+                        
+                        {"name":"Plo Kon","docked":"n" , "widget" :"01", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-2",
+                        
+                            "shared" :[
+                                {"name" :"Rady Thom", "img" : "assets/images/user.png"}
+                 
+                            ],
+                    
+                        "sub" : []  
+
+                        },
+
+                        {"name":"Starkiller Base","docked":"ok" , "widget" :"14", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-7",
+                        
+                            "shared" :[
+                                {"name" :"Rady Thom", "img" : "assets/images/user.png"},
+                                {"name" :"Denny Delk", "img" : "assets/images/user.png"}
+                
+                      
+                            ],
+                    
+                        "sub" : [
+                    
+                                        {"name":"Unkar Plutt","docked":"n" , "widget" :"12", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-3",
+                                    
+                                            "shared" :[
+                                                {"name" :"Rady Thom", "img" : "assets/images/user.png"}
+                                             
+                                
+                                            ],
+                                    
+                                        "sub" : []  
+                                        }
+                                    
+                        ]  
+
+                        },
+
+                        {"name":"Skywalker","docked":"n" ,  "widget" :"08", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-4",
+                        
+                            "shared" :[
+                                {"name" :"Rady Thom", "img" : "assets/images/user.png"},
+                                {"name" :"Denny Delk", "img" : "assets/images/user.png"}
+
+                            ],
+                    
+                        "sub" : []  
+
+                        }
+
+
+            ]  
+
+    },
+
+
+    {"name":"Stark Dash","docked":"ok" , "widget" :"02", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-2",
+        
+        "shared" :[
+            {"name" :"Rady Thom", "img" : "assets/images/user.png"},
+            {"name" :"Denny Delk", "img" : "assets/images/user.png"},
+            {"name" :"Bipin M", "img" : "assets/images/user.png"}
+        ],
+
+      "sub" : [
+
+                        
+                        {"name":"Plo Kon","docked":"n" , "widget" :"01", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-1",
+                        
+                            "shared" :[
+                                {"name" :"Rady Thom", "img" : "assets/images/user.png"},
+                                {"name" :"Denny Delk", "img" : "assets/images/user.png"}
+                
+                       
+                            ],
+                    
+                        "sub" : []  
+
+                        },
+
+                        {"name":"Starkiller Base","docked":"ok" , "widget" :"14", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-7",
+                        
+                            "shared" :[
+                                {"name" :"Rady Thom", "img" : "assets/images/user.png"},
+                                {"name" :"Denny Delk", "img" : "assets/images/user.png"}
+                      
+                     
+                      
+                            ],
+                    
+                        "sub" : [
+                    
+                                        {"name":"Unkar Plutt","docked":"n" , "widget" :"12", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-3",
+                                    
+                                            "shared" :[
+                                                {"name" :"Rady Thom", "img" : "assets/images/user.png"},
+                                                {"name" :"Denny Delk", "img" : "assets/images/user.png"},
+                                                {"name" :"Chris Person", "img" : "assets/images/user.png"},
+                                                {"name" :"Bipin M", "img" : "assets/images/user.png"}
+                                            ],
+                                    
+                                        "sub" : []  
+                                        }
+                                    
+                        ]  
+
+                        },
+
+                        {"name":"Skywalker","docked":"n" ,  "widget" :"08", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-4",
+                        
+                            "shared" :[
+                                {"name" :"Rady Thom", "img" : "assets/images/user.png"},
+                                {"name" :"Denny Delk", "img" : "assets/images/user.png"}
+                            ],
+                    
+                        "sub" : []  
+
+                        }
+
+
+            ]  
+
+    },
+
+    {"name":"Star Destroyer","docked":"ok" , "widget" :"09", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-1",
+        
+        "shared" :[
+            {"name" :"Rady Thom", "img" : "assets/images/user.png"},
+            {"name" :"Denny Delk", "img" : "assets/images/user.png"},
+            {"name" :"Chris Person", "img" : "assets/images/user.png"},
+            {"name" :"Peter Daimond ", "img" : "assets/images/user.png"},
+            {"name" :"Tom Kane", "img" : "assets/images/user.png"},
+            {"name" :"Anthonay Lang", "img" : "assets/images/user.png"},
+            {"name" :"Jerome Blake", "img" : "assets/images/user.png"},
+            {"name" :"Jullion Hollowey", "img" : "assets/images/user.png"}
+        ],
+
+      "sub" : [
+
+                        
+                        {"name":"Plo Kon","docked":"n" , "widget" :"01", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-2",
+                        
+                            "shared" :[
+                                {"name" :"Rady Thom", "img" : "assets/images/user.png"},
+                                {"name" :"Denny Delk", "img" : "assets/images/user.png"},
+                                {"name" :"Chris Person", "img" : "assets/images/user.png"}
+                       
+                            ],
+                    
+                        "sub" : []  
+
+                        },
+
+                        {"name":"Starkiller Base","docked":"ok" , "widget" :"14", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-7",
+                        
+                            "shared" :[
+                                {"name" :"Rady Thom", "img" : "assets/images/user.png"},
+                                {"name" :"Denny Delk", "img" : "assets/images/user.png"},
+                                {"name" :"Chris Person", "img" : "assets/images/user.png"}
+                     
+                      
+                            ],
+                    
+                        "sub" : [
+                    
+                                        {"name":"Unkar Plutt","docked":"n" , "widget" :"12", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-3",
+                                    
+                                            "shared" :[
+                                                {"name" :"Rady Thom", "img" : "assets/images/user.png"},
+                                                {"name" :"Denny Delk", "img" : "assets/images/user.png"},
+                                                {"name" :"Chris Person", "img" : "assets/images/user.png"}
+                                
+                                            ],
+                                    
+                                        "sub" : []  
+                                        }
+                                    
+                        ]  
+
+                        },
+
+                        {"name":"Skywalker","docked":"ok" ,  "widget" :"08", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-4",
+                        
+                            "shared" :[
+                                {"name" :"Rady Thom", "img" : "assets/images/user.png"},
+                                {"name" :"Denny Delk", "img" : "assets/images/user.png"},
+                                {"name" :"Chris Person", "img" : "assets/images/user.png"},
+                                {"name" :"Peter Daimond ", "img" : "assets/images/user.png"}
+           
+                            ],
+                    
+                        "sub" : []  
+
+                        }
+
+
+            ]  
+
+    },
+
+    {"name":"Starkiller Base","docked":"ok" , "widget" :"14", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-1",
+        
+        "shared" :[
+            {"name" :"Rady Thom", "img" : "assets/images/user.png"},
+            {"name" :"Denny Delk", "img" : "assets/images/user.png"},
+            {"name" :"Chris Person", "img" : "assets/images/user.png"},
+            {"name" :"Peter Daimond ", "img" : "assets/images/user.png"},
+            {"name" :"Tom Kane", "img" : "assets/images/user.png"},
+            {"name" :"Anthonay Lang", "img" : "assets/images/user.png"},
+            {"name" :"Jerome Blake", "img" : "assets/images/user.png"},
+            {"name" :"Jullion Hollowey", "img" : "assets/images/user.png"}
+        ],
+
+      "sub" : [
+
+                        
+                        {"name":"Plo Kon","docked":"n" , "widget" :"01", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-2",
+                        
+                            "shared" :[
+                                {"name" :"Rady Thom", "img" : "assets/images/user.png"},
+                                {"name" :"Denny Delk", "img" : "assets/images/user.png"},
+                                {"name" :"Chris Person", "img" : "assets/images/user.png"}
+                       
+                            ],
+                    
+                        "sub" : []  
+
+                        },
+
+                        {"name":"Starkiller Base","docked":"ok" , "widget" :"14", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-7",
+                        
+                            "shared" :[
+                                {"name" :"Rady Thom", "img" : "assets/images/user.png"},
+                                {"name" :"Denny Delk", "img" : "assets/images/user.png"},
+                                {"name" :"Chris Person", "img" : "assets/images/user.png"}
+                     
+                      
+                            ],
+                    
+                        "sub" : [
+                    
+                                        {"name":"Unkar Plutt","docked":"n" , "widget" :"12", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-3",
+                                    
+                                            "shared" :[
+                                                {"name" :"Rady Thom", "img" : "assets/images/user.png"},
+                                                {"name" :"Denny Delk", "img" : "assets/images/user.png"},
+                                                {"name" :"Chris Person", "img" : "assets/images/user.png"}
+                                
+                                            ],
+                                    
+                                        "sub" : []  
+                                        }
+                                    
+                        ]  
+
+                        },
+
+                        {"name":"Skywalker","docked":"n" ,  "widget" :"08", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-4",
+                        
+                            "shared" :[
+                                {"name" :"Rady Thom", "img" : "assets/images/user.png"},
+                                {"name" :"Denny Delk", "img" : "assets/images/user.png"},
+                                {"name" :"Chris Person", "img" : "assets/images/user.png"},
+                                {"name" :"Peter Daimond ", "img" : "assets/images/user.png"}
+           
+                            ],
+                    
+                        "sub" : []  
+
+                        }
+
+
+            ]  
+
+    },
+
+    {"name":"Han solo","docked":"ok" , "widget" :"13", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-5",
+        "shared" :[
+            {"name" :"Rady Thom", "img" : "assets/images/user.png"}
+        ],
+      "sub" : []  
+
+    },
+
+    {"name":"Chlorans","docked":"n" , "widget" :"01", "owner": "Me", "modified" : "June 29, 2019", "icon" :"list-6",
+        "shared" :[
+            {"name" :"Rady Thom", "img" : "assets/images/user.png"}
+        ],
+      "sub" : []  
+
+    }
+
+
+],
+
+"groupList" : [
+    { "name" : "Rebellion" },
+    { "name" : "Axis" },
+    { "name" : "ABC Group" },
+    { "name" : "Cloud Group" },
+    { "name" : "Default Group" },
+    { "name" : "Test Group" },
+    { "name" : "ABout Group" }
+]
+
+
+}

@@ -11,6 +11,18 @@
     <title>Cloud Dashboard | Home </title>
     <!-- Bootstrap core CSS -->
     <link href="assets/css/mainstyle.css" rel="stylesheet">
+	  <script>
+    function lock() {
+      var de = document.documentElement;
+      if (de.requestFullscreen) { de.requestFullscreen }
+      else if (de.mozRequestFullscreen) { de.mozRequestFullscreen() }
+      else if (de.webkitRequestFullscreen) { de.webkitRequestFullscreen() }
+      else if (de.msRequestFullscreen) { de.msRequestFullscreen() }
+      screen.orientation.lock("landscape");
+    }
+
+    lock();
+  </script>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
          alert('Please Update Your Browser');
